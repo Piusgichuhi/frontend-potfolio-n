@@ -43,7 +43,7 @@ export default function Contact() {
         Let’s Connect ✨
       </motion.h1>
       <p className="mt-4 max-w-xl text-lg text-muted-foreground">
-        Whether it's a project, a question, or just to say hi, feel free to reach out on any of my platforms below.
+        Whether it &apos s a project, a question, or just to say hi, feel free to reach out on any of my platforms below.
       </p>
       <div className="mt-8 flex flex-wrap justify-center gap-6">
         {socialLinks.map(({ name, href, icon: Icon }) => (

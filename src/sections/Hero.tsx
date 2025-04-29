@@ -277,7 +277,7 @@ export const HeroSection = () => {
                   repeatDelay: 3
                 }}
               >transforming</motion.span> designs into functional, high-performing web applications.
-              Let's discuss your next project.
+              Let &apos s discuss your next project.
             </motion.p>
           </motion.div>
 

@@ -72,7 +72,7 @@ const ProjectsSection = () => {
           className="text-lg mb-4 text-gray-600"
           variants={fadeIn}
         >
-          Below are some of the projects I've worked on.
+          Below are some of the projects I &apos ve worked on.
         </motion.p>
         
         <motion.h2 
